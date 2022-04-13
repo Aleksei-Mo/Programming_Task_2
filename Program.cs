@@ -1,4 +1,5 @@
 ﻿// Задача 2. Напишите программу, которая на вход принимаем три числа и выдает максимальное из этих чисел.
+Console.Clear(); // Clear the console berofe starting.
 Console.WriteLine("This program will find the biggest number out of the entered numbers.");
 Console.WriteLine("Enter the first number: ");
 double Number_1 = Convert.ToDouble(Console.ReadLine()); //Write the first number to the variable
